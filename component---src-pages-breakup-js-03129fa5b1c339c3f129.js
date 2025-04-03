@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[455],{8449:function(t,e,a){a.r(e);var s=a(6540),u=a(6992);e.default=()=>s.createElement(u.A,{pageContext:{status:"breakup"}})}}]);
+//# sourceMappingURL=component---src-pages-breakup-js-03129fa5b1c339c3f129.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[133],{8589:function(t,e,a){a.r(e);var s=a(6540),r=a(6992);e.default=()=>s.createElement(r.A,{pageContext:{status:"relationship"}})}}]);
+//# sourceMappingURL=component---src-pages-relationship-js-6c8f9a6cd87b776d24cf.js.map
